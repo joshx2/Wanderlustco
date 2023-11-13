@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+  color:aliceblue;
+  text-shadow: 2px 2px 5px lightgreen;
+}
+a{
+  color: aliceblue;
+}
+.colorful-section {
+  color: aliceblue;
+}
